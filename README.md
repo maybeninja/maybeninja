@@ -9,7 +9,9 @@
 
 <p align="center">
   <strong><a href="https://github.com/maybeninja">Website</a></strong> |
-  <strong><a href="https://discord.com/users/1154808437243396138">Discord</a></strong>
+  <strong><a href="https://discord.com/users/1154808437243396138">Discord</a></strong> |
+  <strong><a href="https://instagram.com/mxybeninja">Instagram</a></strong> |
+
 </p>
 
 <div align="center">
