@@ -13,8 +13,8 @@
 </p>
 
 <div align="center">
-  <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/1154808437243396138)](https://discord.com/users/1154808437243396138)">
-    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/1154808437243396138)](https://discord.com/users/1154808437243396138)"alt="Discord Presence" />
+  <a href="">
+    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1154808437243396138)"alt="Discord Presence" />
   </a>
 </div>
 
