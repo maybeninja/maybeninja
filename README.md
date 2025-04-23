@@ -9,14 +9,14 @@
 
 <p align="center">
   <strong><a href="https://github.com/maybeninja">Website</a></strong> |
-  <strong><a href="https://discord.com/users/1154570940185837619">Discord</a></strong> |
+  <strong><a href="https://discord.com/users/1364687618964459570">Discord</a></strong> |
   <strong><a href="https://instagram.com/mxybeninja">Instagram</a></strong>
 
 </p>
 
 <div align="center">
-  <a href="https://discord.com/users/1154570940185837619">
-    <img src="https://lanyard.cnrad.dev/api/1154570940185837619?showDisplayName=true&idleMessage=Offline alt="Discord Presence" />
+  <a href="https://discord.com/users/1364687618964459570">
+    <img src="https://lanyard.cnrad.dev/api/1364687618964459570?showDisplayName=true" />
   </a>
 </div>
 
